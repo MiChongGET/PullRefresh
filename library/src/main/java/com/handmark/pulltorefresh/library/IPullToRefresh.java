@@ -26,6 +26,7 @@ import com.handmark.pulltorefresh.library.PullToRefreshBase.State;
 
 public interface IPullToRefresh<T extends View> {
 
+
 	/**
 	 * Demos the Pull-to-Refresh functionality to the user so that they are
 	 * aware it is there. This could be useful when the user first opens your

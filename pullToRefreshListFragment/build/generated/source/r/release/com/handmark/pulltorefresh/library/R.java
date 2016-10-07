@@ -47,6 +47,7 @@ public final class R {
 		public static int indicator_arrow = 0x7f020002;
 		public static int indicator_bg_bottom = 0x7f020003;
 		public static int indicator_bg_top = 0x7f020004;
+		public static int squirrel = 0x7f020005;
 	}
 	public static final class id {
 		public static int both = 0x7f070003;

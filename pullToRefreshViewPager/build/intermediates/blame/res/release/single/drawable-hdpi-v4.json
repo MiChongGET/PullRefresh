@@ -10,5 +10,9 @@
     {
         "merged": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\indicator_arrow.png",
         "source": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshViewPager\\build\\intermediates\\exploded-aar\\PullRefresh\\library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshViewPager\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\squirrel.gif",
+        "source": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshViewPager\\build\\intermediates\\exploded-aar\\PullRefresh\\library\\unspecified\\res\\drawable-hdpi-v4\\squirrel.gif"
     }
 ]

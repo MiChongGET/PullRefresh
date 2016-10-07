@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\squirrel.gif",
+        "source": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\PullRefresh\\library\\unspecified\\res\\drawable-xhdpi-v4\\squirrel.gif"
+    },
+    {
         "merged": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\default_ptr_flip.png",
         "source": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\PullRefresh\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
     },
