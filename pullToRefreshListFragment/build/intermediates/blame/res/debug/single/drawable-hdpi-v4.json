@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\PullRefresh\\library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\PullRefresh\\library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\AndroidWork\\androidsoft\\PullRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\PullRefresh\\library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    }
+]
